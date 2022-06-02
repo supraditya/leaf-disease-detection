@@ -1,4 +1,4 @@
-# Leaf Disease Detection using DL and IOT
+# Leaf Disease Detection using ML and DL
 
 DATASET LINK for the DL method: https://www.kaggle.com/kaiesalmahmud/banana-leaf-dataset
 
